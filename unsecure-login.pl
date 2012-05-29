@@ -5,7 +5,7 @@ my $opt_user        = "";
 my $opt_pwd         = "";
 
 ###########################################################
-# unsecure-login - logs into uw-unsecure automatically    #
+# unsecure-login - logs into uw-unsecured automatically   #
 #    written by Sandy Maguire (amaguire@uwaterloo.ca)     #
 #                                                         #
 # Last revised 2012-05-28                                 #
